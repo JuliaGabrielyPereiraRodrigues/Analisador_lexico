@@ -1,0 +1,5 @@
+
+Tabela de símbolos:
+Indice: 0, Nome: ID, Lexema: x, Linha: 2, Coluna: 1
+Indice: 1, Nome: ID, Lexema: y, Linha: 3, Coluna: 1
+Indice: 2, Nome: ID, Lexema: z, Linha: 8, Coluna: 1

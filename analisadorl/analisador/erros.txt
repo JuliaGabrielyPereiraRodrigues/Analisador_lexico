@@ -1,0 +1,2 @@
+Erro! (Número inválido seguido de identificador: 10.g) - Linha: 7, Coluna: 1
+Erro! (Número inválido com múltiplos pontos: 3.14.1) - Linha: 8, Coluna: 1
