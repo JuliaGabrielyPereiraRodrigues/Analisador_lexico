@@ -1,0 +1,30 @@
+Estrutura de programa reconhecida!
+Declaração de variável reconhecida!
+Declaração de variável reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Expressão reconhecida!
+Atribuição reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Expressão reconhecida!
+Atribuição reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressão reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressão reconhecida!
+Atribuição reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressão reconhecida!
+Atribuição reconhecida!
+Estrutura IF-THEN-ELSE reconhecida!
+Fim do bloco de comandos reconhecido!
