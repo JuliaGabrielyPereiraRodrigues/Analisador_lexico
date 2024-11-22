@@ -1,0 +1,30 @@
+Estrutura de programa reconhecida!
+Declaracao de variavel reconhecida!
+Declaracao de variavel reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Expressao reconhecida!
+Atribuicao reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Expressao reconhecida!
+Atribuicao reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressao reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressao reconhecida!
+Atribuicao reconhecida!
+Fator reconhecido!
+Termo reconhecido!
+Fator reconhecido!
+Termo reconhecido!
+Expressao reconhecida!
+Atribuicao reconhecida!
+Estrutura IF-THEN-ELSE reconhecida!
+Fim do programa reconhecido com sucesso!
