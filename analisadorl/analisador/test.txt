@@ -1,9 +1,0 @@
-program
-var x : integer;
-var y : real;
-begin
-  x := 10;
-  y := 3.14;
-  x := 10.gy;  
-  z := 3.14.1; 
-end.
